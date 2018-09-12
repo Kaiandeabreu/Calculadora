@@ -12,6 +12,13 @@ double mult(double x, double y){
 	return x*y;
 }
 
+double divi(double x, double y){
+	if (y=!0){
+		return x/y;}
+	else {
+		return -1;}
+}
+
 
 int main(){
 
